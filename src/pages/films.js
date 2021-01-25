@@ -21,7 +21,7 @@ const MoviePage = () => {
     const {
         wpcontent: {
           page: {
-            filmMeta: {kleineBeschrijving, bannerFoto},
+            filmMeta: {},
         },
         movies: {edges: movies },
     },
